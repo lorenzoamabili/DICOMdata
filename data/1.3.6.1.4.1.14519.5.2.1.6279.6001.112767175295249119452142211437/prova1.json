@@ -1,0 +1,26 @@
+{
+	"Modality": "CT",
+	"Manufacturer": "GE",
+	"ManufacturersModelName": "LightSpeed16",
+	"BodyPartExamined": "CHEST",
+	"PatientPosition": "FFS",
+	"SoftwareVersions": "06MW03.5",
+	"SeriesDescription": "Recon_2:_C-A-P",
+	"ProtocolName": "Recon_2:_C-A-P",
+	"ScanOptions": "HELICAL_MODE",
+	"ImageType": ["ORIGINAL", "PRIMARY", "AXIAL"],
+	"SeriesNumber": 3,
+	"AcquisitionTime": "17:17:3.000000",
+	"AcquisitionNumber": 1,
+	"XRayExposure": 32,
+	"ReconMatrixPE": 512,
+	"ImageOrientationPatientDICOM": [
+		1,
+		0,
+		0,
+		0,
+		1,
+		0	],
+	"ConversionSoftware": "dcm2niix",
+	"ConversionSoftwareVersion": "v1.0.20171215 (OpenJPEG build) GCC7.3.0"
+}
