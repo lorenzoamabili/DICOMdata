@@ -6,7 +6,10 @@
          , "value" : "*"
          }
         ,{ "key" : "Access-Control-Allow-Headers"
-         , "value" : "Origin, X-Requested-With, Content-Type, Accept, Range"
+         , "value" : "Origin, X-Requested-With, Content-Type, Accept, Range, X-API-KEY, Access-Control-Request-Method, Authorization"
+         }
+                 ,{ "key" : "Access-Control-Allow-Methods"
+         , "value" : "GET, POST, OPTIONS, PUT, DELETE"
          }
         ]
     }
