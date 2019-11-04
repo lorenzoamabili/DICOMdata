@@ -3,7 +3,7 @@
     { "source" : "**/*.@(jpg|jpeg|gif|png|txt|nii|gz)"
     , "headers" :
         [{ "key" : "Access-Control-Allow-Origin"
-         , "value" : "http://localhost:4200/"
+         , "value" : "http://localhost:4200"
          }
         ,{ "key" : "Access-Control-Allow-Headers"
          , "value" : "Origin, X-Requested-With, Content-Type, Accept, Range, X-API-KEY, Access-Control-Request-Method, Authorization"
