@@ -5,8 +5,11 @@
         [{ "key" : "Access-Control-Allow-Origin"
          , "value" : "http://localhost:4200"
          }
-        ,{ "key" : "Access-Control-Allow-Headers"
+         ,{ "key" : "Access-Control-Allow-Headers"
          , "value" : "Origin, X-Requested-With, Content-Type, Accept, Range, X-API-KEY, Access-Control-Request-Method, Authorization"
+         }
+         ,{ "key" : "Access-Control-Allow-Credentials"
+         , "value" : "true"
          }
         ]
     }
